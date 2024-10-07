@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **doanhuyxh@gmail.com**
 
-- 📄 Know about my experiences [I am a programmer passionate about web and ai development DESKTOP-SN1BS05 (16:3): Build and deploy complete web applications, from UI to database and API. In addition, I have participated in developing AI models for natural language processing and image recognition](I am a programmer passionate about web and ai development DESKTOP-SN1BS05 (16:3): Build and deploy complete web applications, from UI to database and API. In addition, I have participated in developing AI models for natural language processing and image recognition)
+- 📄 Know about my experiences I'm a programmer passionate about Web and Ai development  Build and deploy complete web applications, from UI to database and API. In addition, I have participated in developing AI models for natural language processing and image recognition](I am a programmer passionate about Web and Ai development. Build and deploy complete web applications, from UI to database and API. In addition, I have participated in developing AI models for natural language processing and image recognition)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

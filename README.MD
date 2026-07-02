@@ -13,7 +13,7 @@
 - 🚀 **Experience**: Over **2 years** of professional experience in Software Engineering.
 - 📱 **Current Projects**: Developing a **Notification Forwarding Android App** and **TikTok Automation Tools**.
 - 🌱 **Learning**: Deepening **Machine Learning** integration into Web Applications and Microservices.
-- 💬 **Ask me about**: Full-stack (Next.js, Node.js, .NET), Automation, and Business Logic (CRM/Listing Modules).
+- 💬 **Ask me about**: Full-stack (Next.js, Nestjs.js, .NET, Flask, Fast, Laravel, Codeigniter, React Native), Automation, and Business Logic (CRM/Listing Modules).
 - 📫 **Contact**: [doanhuyxh@gmail.com](mailto:doanhuyxh@gmail.com)
 
 ---
